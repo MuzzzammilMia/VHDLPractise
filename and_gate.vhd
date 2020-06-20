@@ -1,4 +1,5 @@
 --Aim of the project is just go over a simple project in VHDL
+-- To cover VHDL again
 -- Link https://www.nandland.com/vhdl/tutorials/tutorial-modelsim-simulation-walkthrough.html
 
 library ieee;
